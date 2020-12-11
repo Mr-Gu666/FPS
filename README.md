@@ -62,7 +62,8 @@
 
 2.Windows包：
 
-> 
+> 链接：https://pan.baidu.com/s/1d2nWvUBQ-h2Qju9dfsCKHA 
+> 提取码：1111 
 
 -------
 
