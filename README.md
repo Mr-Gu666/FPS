@@ -1,4 +1,5 @@
-# FPS
+
+
 终于把Score的显示加上啦！
 
 接下来还是想把第一人称做出来，第三人称我真的射不准，或者加个准星？
@@ -73,11 +74,13 @@ AI:
 
 1.视频资源：
 
-> 
+> 链接：https://pan.baidu.com/s/1DJLD3Gjo2-huCeAtB3cIsw 
+> 提取码：1111 
 
 2.Windows包：
 
-> 
+> 链接：https://pan.baidu.com/s/19ulucEF2UzjZcEcJzzod_Q 
+> 提取码：1111 
 
 ------
 
